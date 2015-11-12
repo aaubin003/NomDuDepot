@@ -24,9 +24,6 @@ namespace Exercice_4
             Console.ReadLine();
 
 
-            //jaime ça
-
-
 
 
         }
